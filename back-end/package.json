@@ -1,0 +1,12 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "Sign Up",
+  "main": "server.js",
+  "type": "modules",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Benzina Aziz",
+  "license": "ISC"
+}
